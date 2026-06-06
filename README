@@ -1,0 +1,12 @@
+# Mis Tareas
+Mis Tareas es una aplicación de gestión de tareas que te ayuda a organizar tu día a día de manera eficiente. Con una interfaz intuitiva y fácil de usar, puedes crear, editar y eliminar tareas rápidamente. Además, puedes establecer recordatorios para no olvidar tus compromisos importantes.
+## Caracteristicas 
+-Crear, editar y eliminar tareas.
+-Establecer recordatorios.
+-Organizar tareas por categorías.  
+-Interfaz amigable y fácil de usar.
+## Instalación
+1. Clona el repositorio: `git clone https://github.com/kharla123/mis-tareas.git`
+2. Navega al directorio del proyecto: `cd mis-tareas`
+3. Instala las dependencias: `npm install`
+4. Inicia la aplicación: `npm start`
