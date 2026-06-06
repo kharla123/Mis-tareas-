@@ -10,3 +10,4 @@ Mis Tareas es una aplicación de gestión de tareas que te ayuda a organizar tu 
 2. Navega al directorio del proyecto: `cd mis-tareas`
 3. Instala las dependencias: `npm install`
 4. Inicia la aplicación: `npm start`
+ 
