@@ -158,3 +158,23 @@ body {
   color: #888;
   line-height: 1.4;
 }
+.fab-row {
+  padding: 12px 20px;
+  display: flex;
+  justify-content: flex-end;
+}
+.fab {
+  width: 44px;
+  height: 44px;
+  border-radius: 50%;
+  background: linear-gradient(135deg, #00BCD4, #1565C0);
+  border: none;
+  color: #fff;
+  font-size: 26px;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 4px 12px rgba(0, 188, 212, 0.4);
+  line-height: 1;
+}
