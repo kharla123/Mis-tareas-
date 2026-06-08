@@ -237,3 +237,23 @@ body {
 .form-textarea { resize: none; }
 .form-input:focus,
 .form-textarea:focus { border-color: #00BCD4; }
+
+.status-picker {
+  display: flex;
+  gap: 8px;
+  margin-top: 10px;
+  flex-wrap: wrap;
+}
+.status-btn {
+  padding: 8px 14px;
+  border-radius: 10px;
+  border: none;
+  font-size: 12px;
+  font-weight: 600;
+  cursor: pointer;
+  background: #F3F4F6;
+  color: #555;
+  transition: all 0.2s;
+  font-family: inherit;
+}
+.status-btn.active { background: #00BCD4; color: #fff; }
