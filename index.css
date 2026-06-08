@@ -54,3 +54,22 @@ body {
   display: flex;
   align-items: center;
 }
+.panel-title {
+  font-weight: 700;
+  font-size: 15px;
+  letter-spacing: 1px;
+  color: #222;
+}
+.avatar {
+  width: 36px;
+  height: 36px;
+  border-radius: 50%;
+  background: linear-gradient(135deg, #00BCD4, #1565C0);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color: #fff;
+  font-weight: 700;
+  font-size: 14px;
+}
+
