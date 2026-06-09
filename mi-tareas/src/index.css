@@ -285,3 +285,12 @@ body {
   box-shadow: 0 4px 12px rgba(0, 172, 193, 0.35);
 }
 .save-btn:hover { opacity: 0.9; }
+
+.btn-close {
+  background: none;
+  border: none;
+  color: #00BCD4;
+  font-size: 20px;
+  cursor: pointer;
+  line-height: 1;
+}
