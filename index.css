@@ -257,3 +257,31 @@ body {
   font-family: inherit;
 }
 .status-btn.active { background: #00BCD4; color: #fff; }
+.preview-card {
+  margin-top: 20px;
+  background: #F0FAFD;
+  border: 1.5px dashed #00BCD4;
+  border-radius: 14px;
+  padding: 14px;
+  display: none;
+}
+.preview-card.visible { display: block; }
+.save-area { padding: 16px 24px; }
+.save-btn {
+  width: 100%;
+  padding: 14px;
+  border-radius: 14px;
+  border: none;
+  background: linear-gradient(135deg, #00ACC1, #1565C0);
+  color: #fff;
+  font-size: 15px;
+  font-weight: 700;
+  cursor: pointer;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 8px;
+  font-family: inherit;
+  box-shadow: 0 4px 12px rgba(0, 172, 193, 0.35);
+}
+.save-btn:hover { opacity: 0.9; }
