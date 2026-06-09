@@ -294,3 +294,7 @@ body {
   cursor: pointer;
   line-height: 1;
 }
+@media (max-width: 640px) {
+  .app { flex-direction: column; }
+  .panel-left { width: 100%; }
+}
